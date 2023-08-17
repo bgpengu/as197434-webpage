@@ -1,0 +1,27 @@
+baseURL: ''
+languageCode: en-us
+title: AS197434
+theme: PaperMod
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: true
+  
+  homeInfoParams:
+    Title: "Hi there, greetings from Germany \U0001F44B"
+    Content: Everything about the AS197434 can be found on this page!
+
+menu:
+  main:
+    - identifier: contact
+      name: Contact
+      url: /posts/contact/
+      weight: 30
+    - identifier: peering
+      name: Peering
+      url: /posts/peering-policy/
+      weight: 20
+    - identifier: introduction
+      name: Introduction
+      url: /posts/introduction/
+      weight: 10
