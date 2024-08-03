@@ -25,3 +25,8 @@ menu:
       name: Introduction
       url: /posts/introduction/
       weight: 10
+      
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
