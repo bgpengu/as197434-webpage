@@ -4,39 +4,34 @@
     <title>AS197434</title>
     <link>/</link>
     <description>Recent content on AS197434</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2023 16:30:06 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Aug 2023 16:30:06 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
       <link>/posts/introduction/</link>
       <pubDate>Tue, 15 Aug 2023 15:26:30 +0200</pubDate>
-      
       <guid>/posts/introduction/</guid>
       <description>ASN19434 is a personal ASN which was established by me on August 1, 2023 with the help from Cloudie and Zappie Host LLC 🌐
 It&amp;rsquo;s main goal is to build own networks with BGP which are routable over the internet. The network is dedicated for education and learning.</description>
     </item>
-    
     <item>
       <title>Peering Policy</title>
       <link>/posts/peering-policy/</link>
       <pubDate>Tue, 15 Aug 2023 15:41:10 +0200</pubDate>
-      
       <guid>/posts/peering-policy/</guid>
-      <description>Peering with us is a good way to reduce latency and bandwidth as you&amp;rsquo;re directly connected to us and don’t need to rely on your upstream provider. If you decide to peer with AS197434 you have to follow some basic rules, but don&amp;rsquo;t worry, they aren&amp;rsquo;t hard (only a security measure) 😉
-Requirements and Rules In the possession of a RIPE assigned ASN and IPv6 prefix Have a valid and up to date PeeringDB profile Don&amp;rsquo;t under any circumstances point static or default routes towards us A valid RPKI would be useful for validation Connections and Profile FogIXP (AS47498) Our PeeringDB Profile Do not hesitate to contact us, we will answer in 1-3 business days!</description>
+      <description>So you decided to peer with AS197434? We want to do the process as seamless as possible, but in order to do achieve this you have to follow some basic rules. Don&amp;rsquo;t worry, they aren&amp;rsquo;t that hard (only a security measure) 😉 Pssst: It also increases the peer count&amp;hellip;
+Requirements / Rules In the possession of a RIPE assigned ASN and IPv6 prefix Have a valid and up to date PeeringDB profile Don&amp;rsquo;t under any circumstances point static or default routes towards us RPKI for validation would be useful, but RIR is required A valid RPKI would be useful for validation, valid RIR Entries are required Connections / Profile ASN Exchange Address AS47498 FogIXP 2001:7f8:ca:1:0:19:7434:1 AS36090 F4IX MCI 2602:fa3d:f4:1::ad AS211272 AXCIX Duesseldorf 2a0e:8f02:2260::34 AS202409 LocIX Frankfurt 2001:7f8:f2:e1:a5:19:7434:1185.</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>/posts/contact/</link>
       <pubDate>Tue, 15 Aug 2023 16:30:06 +0200</pubDate>
-      
       <guid>/posts/contact/</guid>
       <description>Following methods can be used to get in contact with us! Questions or inquiries about peering with us at peering@as197434.net
 Network or problem related matters at noc@as197434.net
 All other matters at contact@as197434.net</description>
     </item>
-    
   </channel>
 </rss>
