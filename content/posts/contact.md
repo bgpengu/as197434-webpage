@@ -4,14 +4,11 @@ date: 2023-08-15T16:30:06+02:00
 draft: false
 ---
 
-### Following methods can be used to get in contact with us!
+We're living in a world where communication can be very easy.
+No matter if you need something special or just some help, reach us via E-Mail 📩!
 
-
-Questions or inquiries about peering with us at
-[peering@as197434.net](mailto:peering@as197434.net)
-
-Network or problem related matters at
-[noc@as197434.net](mailto:noc@as197434.net)
-
-All other matters at
-[contact@as197434.net](mailto:contact@as197434.net)
+| Reason | | Address |
+|-------|-|----------|
+| Questions or inquiries about peering with us | | [peering@as197434.net](mailto:peering@as197434.net) | 
+| Network or problem related matters | | [noc@as197434.net](mailto:noc@as197434.net) |
+| Anything else we can help you with | | [contact@as197434.net](mailto:contact@as197434.net) |
