@@ -1,11 +1,11 @@
-baseURL: ''
+baseURL: '/'
 languageCode: en-us
 title: AS197434
 theme: PaperMod
 
 params:
   defaultTheme: dark
-  disableThemeToggle: true
+  disableThemeToggle: false
   
   homeInfoParams:
     Title: "Hi there, greetings from Germany \U0001F44B"
